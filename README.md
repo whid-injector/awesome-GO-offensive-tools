@@ -19,3 +19,4 @@ List of Awesome Offensive Tools written in GO
 
 - https://github.com/dutchcoders/ares
 - https://github.com/future-architect/vuls
+- https://github.com/dzonerzy/goWAPT
