@@ -22,3 +22,4 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/dzonerzy/goWAPT
 - https://github.com/matiasinsaurralde/go-dotnet
 - https://github.com/sysdream/hershell
+- https://github.com/OJ/gobuster
