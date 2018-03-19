@@ -25,3 +25,5 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/OJ/gobuster
 - https://github.com/caffix/amass
 - https://github.com/Ne0nd0g/merlin 
+- https://github.com/360-A-Team/NtlmSocks
+
