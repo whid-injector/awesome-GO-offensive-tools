@@ -7,6 +7,7 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/evilsocket/goproxy/
 - https://github.com/evilsocket/arpfox
 - https://github.com/evilsocket/dnssearch
+- https://github.com/bettercap/bettercap
 
 ### @sensepost repos:
 
