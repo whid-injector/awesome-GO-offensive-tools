@@ -31,5 +31,7 @@ List of Awesome Offensive Tools written in GO
 - https://gist.github.com/leonjza/6c21e7b78b055e6b741809cc3f682374
 - https://github.com/tiagorlampert/CHAOS
 - https://github.com/dreddsa5dies/goHackTools
+- https://github.com/glen-mac/goGetBucket
+
 
 
