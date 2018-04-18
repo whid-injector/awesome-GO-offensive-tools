@@ -36,6 +36,7 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/caffix/amass
 - https://github.com/Ice3man543/subfinder
 - https://github.com/parsiya/Hacking-with-Go
+- https://github.com/NetSPI/goddi
 
 
 
