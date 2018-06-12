@@ -37,6 +37,8 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/Ice3man543/subfinder
 - https://github.com/parsiya/Hacking-with-Go
 - https://github.com/NetSPI/goddi
+- https://github.com/0x09AL/Browser-C2
+
 
 
 
