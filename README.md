@@ -38,7 +38,7 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/parsiya/Hacking-with-Go
 - https://github.com/NetSPI/goddi
 - https://github.com/0x09AL/Browser-C2
-
+- https://github.com/securego/gosec
 
 
 
