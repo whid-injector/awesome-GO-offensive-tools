@@ -16,6 +16,7 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/sensepost/notruler
 - https://github.com/sensepost/liniaal
 - https://github.com/sensepost/gowitness
+- https://github.com/sensepost/goDoH
 
 ### Others:
 
