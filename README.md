@@ -42,6 +42,6 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/securego/gosec
 - https://github.com/mame82/lmidns
 - https://github.com/swarley7/gograbber
-
+- https://github.com/Ullaakut/Gorsair
 
 
