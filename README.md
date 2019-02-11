@@ -44,5 +44,5 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/swarley7/gograbber
 - https://github.com/Ullaakut/Gorsair
 - https://github.com/gen0cide/gscript/
-
+- https://github.com/kgretzky/evilginx2
 
