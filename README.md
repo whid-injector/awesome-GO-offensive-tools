@@ -52,5 +52,5 @@ List of Awesome Offensive Tools written in GO
 - https://dev.hackercat.ninja/hcninja/ipanema
 - https://dev.hackercat.ninja/hcninja/mjolnir
 - https://dev.hackercat.ninja/hcninja/ntlmtool
-
+- https://github.com/Nhoya/gOSINT
 
