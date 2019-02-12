@@ -8,6 +8,7 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/evilsocket/arpfox
 - https://github.com/evilsocket/dnssearch
 - https://github.com/bettercap/bettercap
+- https://github.com/evilsocket/xray
 
 ### @sensepost repos:
 
@@ -24,7 +25,7 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/future-architect/vuls
 - https://github.com/dzonerzy/goWAPT
 - https://github.com/matiasinsaurralde/go-dotnet
-- https://github.com/sysdream/hershell
+- https://github.com/lesnuages/hershell
 - https://github.com/OJ/gobuster
 - https://github.com/caffix/amass
 - https://github.com/Ne0nd0g/merlin 
@@ -45,4 +46,8 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/Ullaakut/Gorsair
 - https://github.com/gen0cide/gscript/
 - https://github.com/kgretzky/evilginx2
+- https://github.com/Ne0nd0g/merlin
+- https://github.com/OJ/gobuster
+
+
 
