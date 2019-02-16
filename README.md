@@ -28,7 +28,7 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/lesnuages/hershell
 - https://github.com/OJ/gobuster
 - https://github.com/caffix/amass
-- https://github.com/Ne0nd0g/merlin 
+- https://github.com/Ne0nd0g/merlin
 - https://github.com/360-A-Team/NtlmSocks
 - https://github.com/0x09AL/go-deliver
 - https://gist.github.com/leonjza/6c21e7b78b055e6b741809cc3f682374
@@ -44,6 +44,8 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/mame82/lmidns
 - https://github.com/swarley7/gograbber
 - https://github.com/Ullaakut/Gorsair
+- https://github.com/Ullaakut/Cameradar
+- https://github.com/Ullaakut/Camerattack
 - https://github.com/gen0cide/gscript/
 - https://github.com/kgretzky/evilginx2
 - https://github.com/Ne0nd0g/merlin
