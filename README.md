@@ -47,7 +47,6 @@ List of Awesome Offensive Tools written in GO
 - https://github.com/gen0cide/gscript/
 - https://github.com/kgretzky/evilginx2
 - https://github.com/Ne0nd0g/merlin
-- https://github.com/OJ/gobuster
 - https://github.com/ffuf/ffuf
 - https://dev.hackercat.ninja/hcninja/ipanema
 - https://dev.hackercat.ninja/hcninja/mjolnir
